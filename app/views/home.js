@@ -19,7 +19,7 @@ export default () => html`
     <section class="hero">
       <div>
         <h1>
-          LBRY is a free, open, and community-run digital marketplace.<br/>
+          LBRY is a free, open, and community-run digital marketplace. <br/>
           Build the future of content freedom.
         </h1>
       </div>
